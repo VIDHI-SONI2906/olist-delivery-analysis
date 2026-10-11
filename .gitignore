@@ -1,0 +1,7 @@
+# Raw data and generated database are large - download from Kaggle instead
+data/raw/*.csv
+*.db
+__pycache__/
+.ipynb_checkpoints/
+venv/
+powerbi/exports/*.csv

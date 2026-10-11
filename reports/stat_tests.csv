@@ -1,0 +1,9 @@
+metric,value
+mean_ontime,4.290386055923885
+mean_late,2.270490518727472
+gap,2.0198955371964127
+gap_ci_low,1.9806713280845754
+gap_ci_high,2.057283518834494
+mannwhitney_p,0.0
+prob_ontime_higher,0.8189958487323372
+chi2_low_score_p,0.0
