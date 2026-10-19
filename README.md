@@ -54,8 +54,8 @@ python analysis/analysis.py          # results go to reports/ and reports/figure
 Then follow `powerbi/POWERBI_GUIDE.md` to build the dashboard.
 
 ## Dashboard
-![Delivery & Satisfaction dashboard](dashboard_delivery.png)
-![Sales Overview dashboard](dashboard_sales.png)
+![Delivery & Satisfaction dashboard](reports/figures/delivery_dashboard.png)
+![Sales Overview dashboard](reports/figures/sales_dashboard.png)
 
 ## Limitations
 - Observational data: results show association, not proof that lateness causes lower scores.
